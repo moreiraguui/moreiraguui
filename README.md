@@ -1,14 +1,15 @@
 <h1 align="center"> Hi! I'm Guilherme Moreira 😄 </h1>
 
 <div align="center">
-  <a href="https://beacons.ai/moreiraguui">
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=moreiraguui&show_icons=true&theme=dark&include_all_commits=true&cont_private=true"/> 
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreiraguui&layout=compact&langs_count=16&theme=dark"/>  </div>
-
+<a href="https://beacons.ai/moreiraguui">
+<img width="500" height="180" src="https://github-readme-stats.vercel.app/api?username=moreiraguui&show_icons=true&theme=dark&include_all_commits=true&cont_private=true"/> 
+  </div>
+<div align="center">
+<img width="500" height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreiraguui&layout=compact&langs_count=16&theme=dark"/> 
 </div>
    
 <h3 align="center">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center"> 
       <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40"                      height="40"/> </a>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-            wordmark.svg" alt="css3" width="40" height="40"/> </a>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-                wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -19,8 +20,8 @@
       <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35" height="33"/> </a>
   </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/guilherme-moreira-souza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/guilherme-moreira-souza" height="40" width="50" /></a>
 </p>
 
