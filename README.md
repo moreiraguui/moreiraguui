@@ -1,11 +1,14 @@
 <h1 align="center"> Hi! I'm Guilherme Moreira 😄 </h1>
 
+
 <div align="center">
 <a href="https://beacons.ai/moreiraguui">
-<img width="500" height="180" src="https://github-readme-stats.vercel.app/api?username=moreiraguui&show_icons=true&theme=dark&include_all_commits=true&cont_private=true"/> 
-  </div>
-<div align="center">
-<img width="500" height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreiraguui&layout=compact&langs_count=16&theme=dark"/> 
+<img heigth="400" width="400" src="https://github-readme-stats.vercel.app/api?username=moreiraguui&show_icons=true&theme=dark&include_all_commits=true&cont_private=true"/> 
+ </div>
+ <div align="center">
+<a href="https://beacons.ai/moreiraguui">
+<img width="250" heigth="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=tjfaccipieri&show_icons=true&locale=en&theme=dark" alt="tjfaccipieri" />
+
 </div>
    
 <h3 align="center">Languages and Tools:</h3>
