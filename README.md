@@ -7,7 +7,7 @@
  </div>
  <div align="center">
 <a href="https://beacons.ai/moreiraguui">
-<img width="250" heigth="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=tjfaccipieri&show_icons=true&locale=en&theme=dark" alt="tjfaccipieri" />
+<img width="250" heigth="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=moreiraguui&show_icons=true&locale=en&theme=dark" alt="tjfaccipieri" />
 
 </div>
    
