@@ -3,9 +3,9 @@
 <img align="right" alt="Gui-pic" height="180" style="border-radius:50px; padding:100px" src="https://i.imgur.com/eN5Tz9y.png">
 </div>
 
-- 👨‍🎓 Formado como Desenvolvedor Full Stack Java Jr. pela Generation Brasil
-- 💻 Estudante de Análise e Desenvolvimento de Sistemas
-- ⚙️ Engenheiro Mecânico
+- 👨‍🎓 Desenvolvedor Full Stack Java Jr.
+- 💻 Estudante de Análise e Desenvolvimento de Sistemas.
+- ⚙️ Engenheiro Mecânico.
 - ☀️ Carpe Diem...
 
 <h3 align="left"><img src="https://komarev.com/ghpvc/?username=moreiraguui&color=blue" alt="Profile views"/></h3> 
