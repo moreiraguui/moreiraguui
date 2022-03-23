@@ -1,30 +1,40 @@
-<h1 align="center"> Hi! I'm Guilherme Moreira 😄 </h1>
-
-
-<div align="center">
-<a href="https://beacons.ai/moreiraguui">
-<img heigth="400" width="400" src="https://github-readme-stats.vercel.app/api?username=moreiraguui&show_icons=true&theme=dark&include_all_commits=true&cont_private=true"/> 
- </div>
- <div align="center">
-<a href="https://beacons.ai/moreiraguui">
-<img width="250" heigth="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=moreiraguui&show_icons=true&locale=en&theme=dark" alt="tjfaccipieri" />
-
+<div style="display: inline_block">
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guilherme Moreira</h1>
+<h3 align="right"><img src="https://komarev.com/ghpvc/?username=moreiraguui&color=yellow" alt="Profile views" /></h3> 
+<img align="right" alt="Gui-pic" height="180" style="border-radius:50px;" src="https://i.imgur.com/eN5Tz9y.png"
+<p align="left">:black_medium_square: Formado como Desenvolvedor Full Stack Java Jr. na Generation Brasil</p>
+<p align="left">💻 Estudante de Análise e Desenvolvimento de Sistemas</p>
+<p align="left">📫 Carpe Diem... </p>
 </div>
-   
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a> <a                     href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="50"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="38"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35" height="33"/> </a>
-  </p>
+<br>
 
-<h3 align="center">Connect with me:</h3>
+## 🛠 &nbsp;Hard Skills
+
+  <div style="display: inline_block">
+  <img align="center" alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="spring" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
+  <img align="center" alt="postgresql"height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="mysql"height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="git"height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+  <img align="center" alt="docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+</div>
+<br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
-<a href="https://www.linkedin.com/in/guilherme-moreira-souza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/guilherme-moreira-souza" height="40" width="50" /></a>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=moreiraguui&show_icons=true&theme=vision-friendly-dark" alt="moreiraguui stats"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreiraguui&layout=compact&theme=vision-friendly-dark" alt="moreiraguui most languages"/>
 </p>
 
-  
+## 💻 &nbsp;Social Media
+<div>
+ <a href="https://www.linkedin.com/in/guilherme-moreira-souza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/carvalhoguui/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+ 
+  ##
+ ![Snake animation](https://github.com/JhonMeddev/JhonMeddev/blob/output/github-contribution-grid-snake.svg)
+<div>
