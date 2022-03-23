@@ -1,11 +1,14 @@
 <div style="display: inline_block">
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guilherme Moreira</h1>
-<h3 align="right"><img src="https://komarev.com/ghpvc/?username=moreiraguui&color=yellow" alt="Profile views" /></h3> 
-<img align="right" alt="Gui-pic" height="180" style="border-radius:50px;" src="https://i.imgur.com/eN5Tz9y.png"
-<p align="left">:black_medium_square: Formado como Desenvolvedor Full Stack Java Jr. na Generation Brasil</p>
-<p align="left">💻 Estudante de Análise e Desenvolvimento de Sistemas</p>
-<p align="left">📫 Carpe Diem... </p>
+<h3 align="right"><img src="https://komarev.com/ghpvc/?username=moreiraguui&color=yellow" alt="Profile views"/></h3> 
+<img align="right" alt="Gui-pic" height="180" style="border-radius:50px; padding:100px" src="https://i.imgur.com/eN5Tz9y.png">
 </div>
+
+- 👨‍🎓 Formado como Desenvolvedor Full Stack Java Jr. pela Generation Brasil
+- 💻 Estudante de Análise e Desenvolvimento de Sistemas
+- ⚙️ Engenheiro Mecânico
+- ☀️ Carpe Diem...
+
 <br>
 
 ## 🛠 &nbsp;Hard Skills
@@ -25,14 +28,16 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=moreiraguui&show_icons=true&theme=vision-friendly-dark" alt="moreiraguui stats"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreiraguui&layout=compact&theme=vision-friendly-dark" alt="moreiraguui most languages"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=moreiraguui&show_icons=true&theme=tokyonight" alt="moreiraguui stats"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreiraguui&layout=compact&theme=tokyonight" alt="moreiraguui most languages"/>
 </p>
 
 ## 💻 &nbsp;Social Media
 <div>
  <a href="https://www.linkedin.com/in/guilherme-moreira-souza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/carvalhoguui/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:guilhermecsouza00@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
 </div>
  
   ##
