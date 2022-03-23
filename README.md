@@ -1,6 +1,5 @@
 <div style="display: inline_block">
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guilherme Moreira</h1>
-<h3 align="right"><img src="https://komarev.com/ghpvc/?username=moreiraguui&color=yellow" alt="Profile views"/></h3> 
 <img align="right" alt="Gui-pic" height="180" style="border-radius:50px; padding:100px" src="https://i.imgur.com/eN5Tz9y.png">
 </div>
 
@@ -9,7 +8,7 @@
 - ⚙️ Engenheiro Mecânico
 - ☀️ Carpe Diem...
 
-<br>
+<h3 align="left"><img src="https://komarev.com/ghpvc/?username=moreiraguui&color=blue" alt="Profile views"/></h3> 
 
 ## 🛠 &nbsp;Hard Skills
 
