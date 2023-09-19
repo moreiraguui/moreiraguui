@@ -1,5 +1,5 @@
 <div style="display: inline_block">
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guilherme Moreira</h1>
+<h1 align="left">Hi ✌️, I'm Guilherme Moreira</h1>
 <img align="right" alt="Gui-pic" height="180" style="border-radius:50px; padding:100px" src="https://i.imgur.com/eN5Tz9y.png">
 </div>
 
